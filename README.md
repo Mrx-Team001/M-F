@@ -6,4 +6,4 @@ cd M-F
 
 chmod +x *
 
-python d.py
+python M.py
